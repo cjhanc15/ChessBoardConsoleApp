@@ -1,0 +1,12 @@
+C:\Users\Shadow\source\repos\ChessBoardConsoleApp\ChessBoardModel\bin\Debug\net6.0\ChessBoardModel.deps.json
+C:\Users\Shadow\source\repos\ChessBoardConsoleApp\ChessBoardModel\bin\Debug\net6.0\ChessBoardModel.dll
+C:\Users\Shadow\source\repos\ChessBoardConsoleApp\ChessBoardModel\bin\Debug\net6.0\ChessBoardModel.pdb
+C:\Users\Shadow\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.csproj.AssemblyReference.cache
+C:\Users\Shadow\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.AssemblyInfoInputs.cache
+C:\Users\Shadow\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.AssemblyInfo.cs
+C:\Users\Shadow\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.dll
+C:\Users\Shadow\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\net6.0\refint\ChessBoardModel.dll
+C:\Users\Shadow\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\net6.0\ChessBoardModel.pdb
+C:\Users\Shadow\source\repos\ChessBoardConsoleApp\ChessBoardModel\obj\Debug\net6.0\ref\ChessBoardModel.dll
